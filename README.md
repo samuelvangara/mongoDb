@@ -1,4 +1,4 @@
 # mongoDb
 Learning MongoDb
 # To install
-mongod --directoryperdb --dbpath C:\Program Files\MongoDB\Server\3.4\data\db --logpath C:\Program Files\MongoDB\Server\3.4\log\mongo.log --logappend --rest --install
+C:\mongodb\bin>mongod --directoryperdb --dbpaath C:\mongodb\data\db --logpath C:\mongodb\log\mongo.log --logappend --rest --install
